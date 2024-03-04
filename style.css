@@ -1,0 +1,8 @@
+table {
+    border-spacing: 5;
+    text-align: left;
+}
+
+tr {
+    vertical-align: top;
+}
